@@ -1,1 +1,1 @@
-# MyRepo
+# Paragon z warzywniaka
